@@ -1,0 +1,1 @@
+import{_ as e,o,c as t}from"./index-d1e9272b.js";import"https://esm.sh/@octokit/rest";const c={};function r(n,s){return o(),t("div",null,"Aboutページです")}const f=e(c,[["render",r]]);export{f as default};
